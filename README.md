@@ -7,7 +7,7 @@
 ### Links and Resources
 * [submission PR](http://xyz.com)
 * [travis](http://xyz.com)
-* [back-end](http://xyz.com)
+* [back-end](https://boofalo.herokuapp.com)
 
 ### Setup
 #### `.env` requirements
@@ -23,7 +23,7 @@
 * What assertions were made?
   * Adding an n, adding auth as a parameter
 * What assertions need to be / should be made?
-  * JSDoc
+  * JSDOC
 
 #### UML
 ![Picture](./assets/code-11.jpg "Whiteboard")

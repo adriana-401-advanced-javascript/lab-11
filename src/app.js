@@ -13,6 +13,8 @@ const authRouter = require( './auth/router.js' );
 // Prepare the express app
 const app = express();
 
+require('dotenv').config();
+
 // App Level MW
 app.use(cors());
 app.use(morgan('dev'));
