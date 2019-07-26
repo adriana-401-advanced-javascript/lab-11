@@ -5,7 +5,7 @@
 ### Author: Adriana Graybill
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/adriana-401-advanced-javascript/lab-11/pull/2)
 * [travis]([![Build Status](https://travis-ci.com/adriana-401-advanced-javascript/lab-11.svg?branch=master)](https://travis-ci.com/adriana-401-advanced-javascript/lab-11))
 * [back-end](https://boofalo.herokuapp.com)
 
